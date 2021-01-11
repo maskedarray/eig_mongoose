@@ -17,7 +17,7 @@
 
 #include "mgos.h"
 #define LED_PIN 2
-
+//change pin number for i2c
 static void timer_cb(void *arg) {
   static bool s_tick_tock = false;
   LOG(LL_INFO,
