@@ -1,7 +1,5 @@
-# A blank Mongoose OS app
+# Mongoose for BLE + GCloud
 
 ## Overview
 
-This is an empty app, serves as a skeleton for building Mongoose OS
-apps from scratch.
-
+Mongoose app developed for integrating GCloud IOT Core and BLE.
